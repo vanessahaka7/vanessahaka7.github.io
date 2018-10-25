@@ -1,0 +1,105 @@
+body{
+
+	margin:0;
+	padding:0;
+}
+form{
+	font-size:16;
+	background:rgb(235, 234, 234);
+	max-width: 500px;
+	margin:0 auto;
+	padding: 0 10px 10px 10px;
+
+}
+section.formulario{
+	
+	width: 100%;
+	height: 500px;
+	margin-left:0px;
+	margin-top: -28px;
+	background-color: rgb(238, 202, 243);
+	text-align: left;
+	padding: auto;
+	    
+    }
+h2.v{
+	font-size: 30px;
+	color: blue;
+	padding-left: 100px;
+}
+p.de{
+    font-size: 25px;
+    color:rgb(38, 150, 184);
+}
+input, textarea{
+	width:300px;
+	margin-top: -10px;
+	padding: 5px;
+	color: #078; 
+}
+/*arrumar o imput*/
+textarea{
+	width:470px;
+	height: 120px;
+	padding: 5px;
+	margin-left:15px;   
+	line-height: 20px;
+}
+/*.enviar input{
+	background: #069;
+	height: 40px;
+	width: 150px;
+	font-weight;bold;
+	border-radius:5px;
+	color:#fff;
+	cursor: pointer;
+	border: 1px solid;
+}
+.enviar input:hover{
+	background: #078;
+}*/
+.textarea{
+	width: 470px;
+	height: 120px;
+	line-height: 20px;
+	
+}
+input.assunto{
+	margin-left: 5px;
+}
+input.no{
+	margin-left: 25px;
+}
+input.e{
+	margin-left: 27px;
+}
+input.b{
+	margin-top: 5px;
+	margin-left: 101px;
+	font-size: 18px;
+	background: #069;
+	height: 50px;
+	width: 300px;
+	font-weight;bold;
+	border-radius:5px;
+	color:#fff;
+	cursor: pointer;
+	border: 1px solid;
+}
+input.b:hover{
+	background: #078;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

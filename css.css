@@ -1,0 +1,257 @@
+body{
+    background-color:rgb(82, 56, 82);
+    /*background-image: url(fundo.png);
+    background-repeat: repeat;*/
+    
+}
+
+/*Slide*/
+.container-slides{
+    width:900px;
+    margin-left: 200px;
+    margin-top: 10px;
+    padding-top: 0px;
+}
+.carousel-item{
+    height: 400px;
+
+}
+/*---------------------------------------*/
+
+/*Logo*/
+img.logo{
+    float:center;
+
+}
+section.logo{
+    /* border: 2px #ccc dotted;*/
+     margin:0px auto;
+     text-align: center;
+     width: 100%;
+     background-color:#fff;
+}
+ /*---------------------------------------*/
+
+
+/*Menu*/
+section.menu{
+    
+    /*margin:2px auto;
+    text-align: center;
+    width: 100%;
+    background-color: #57BC90;
+    padding-top: 0px;*/
+
+    width: 100%;
+    height: 22px;	
+    margin:2px auto;
+	margin-top:0px;
+    font-size:19px;
+    padding: auto;   
+    background-color: #000
+}
+
+ul  {
+    background-color:rgb(82, 56, 82);
+    margin-top: 5x;
+    padding-top:2px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-left: 10px;
+}
+
+li
+{
+		
+    display:inline;
+    margin: 0px 145px 5px 15px;
+	/*border-right: solid 2px rgb(248, 246, 246);*/
+	padding-right: 20px;
+	
+	
+}
+
+a:link 
+    { 
+        font-weight: bold; 
+        text-decoration: none; 
+        color: #fff;
+	
+	}
+a:visited 
+    { 
+        font-weight: bold; 
+        text-decoration: none; 
+        color: rgb(236, 192, 225);
+
+	}
+a:active
+    { 
+        text-decoration:underline; 
+        color: rgb(160, 20, 148);	
+    }
+
+/*---------------------------------------*/
+
+/*Primeira seção*/
+
+section.texto{
+    /*border: 2px #ccc dotted;
+    margin:5px auto;    
+    width: 100%;    
+    background-color: #57BC90;*/
+    width: 100%;
+	height: 400px;
+	margin-left:0px;
+    margin-top: 0px;
+    background-color: rgb(128, 12, 120);
+    text-align: left;
+    padding: auto;
+	
+}
+
+h1.titulo{
+    color:rgb(160, 19, 153);
+    font-family: 'Franklin Gothic Medium';
+    font-size: 40px;
+    margin-left: 440px; 
+    padding-top: 15px;   
+    float: center;
+    font-weight: bold
+
+}
+p.texto {
+    color: rgb(114, 29, 117);
+    margin-top: 10px;
+    text-align: center;
+    font-size: 25px;
+    float: left;
+    margin-left: 280px;
+    
+}
+/*-------------------------------------*/
+
+/*
+a.vermelho{
+    color:#d5dddd;    
+
+}
+*/
+/*Segunda seção*/
+section.texto_dois{
+
+    width: 100%;
+	height: 200px;
+	margin-left:0px;
+    margin-top:0px;
+    background-color: rgb(238, 202, 243);
+    text-align: left;
+}
+
+h2.laranja{
+
+    color:#970;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40;
+    margin-top: 20px;
+    padding: 10px;
+    float: left;
+}
+p.azul{
+
+    color:#000986;
+    float:right;
+}
+/*Rodape*/
+footer.rodape{
+   
+    width: 100%;
+	height: 300px;
+	margin-left:0px;
+    margin-top:0px;
+    background-color: rgb(163, 71, 163);
+    text-align: left;
+
+}
+
+img.roda{
+    margin-top: 215px;
+    margin-left: 450px;
+
+}
+img.roli{
+    margin-top: 215px;
+    margin-left: 100px;
+}
+img.rofa{
+    margin-top: 215px;
+    margin-left: 120px;
+}
+h3.frase{
+    margin-top: -5px;
+    margin-left: 235px;
+    font-size: 13px;
+    padding-left: 300px;
+    color: #000;
+}
+h2.frasefim{
+    color:rgb(238, 183, 233);
+    font-size: 30px;
+    margin-left: 550px;
+    padding-top: 10px;
+    border: 1px darkblue dotted;
+    background-color: rgb(163, 73, 151);
+    font-family: 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p.final{
+    color:rgb(41, 4, 30);
+    font-size: 22px;
+    font-family: 'Georgia', 'Times', 'Times New Roman', serif;
+    margin-left: 550px;
+    /*border: 2px darkblue dotted;*/
+    background-color: rgb(252, 88, 246);
+    text-align: justify;
+    text-indent:15px;
+    width:800px;
+    border-collapse: collapse;
+    
+}
+/*--------------------------------------*/
+
+/*Formulario*/
+p.nome{
+    color:rgb(238, 202, 243);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+
+/*--------------------------------------*/
+
+section.galeria{    
+    width: 100%px;
+    height: 400px;
+    margin-left: 0px;
+    background-color: rgb(236, 92, 217);
+}
+img.casa{
+    width: 200px;
+    height: 200px;
+    margin-left: 30px;
+    margin-top: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
